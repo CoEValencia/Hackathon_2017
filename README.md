@@ -1,6 +1,10 @@
 # Hackathon 2017 - Capgemini | IBM Bluemix  --- WIP
 Repositorio de recursos para la hackathon 
 
+```
+Un hackathon es una gran oportunidad para aprender, 
+sin importar si eres estudiante, profesionista, emprendedor o empleado
+```
 
 ## Índice
 * [Formación Universidades](https://docs.google.com/presentation/d/11zcWUh3JsWJvEDAjDNyUHMoFZtt8HrPHAjRSE8j-vtY/edit?usp=sharing)
