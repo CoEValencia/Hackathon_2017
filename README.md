@@ -25,6 +25,6 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [El Vigilante]()
 
 ## Plantilla Node-RED
-* []()
+* [https://github.com/vicboma1/TemplateBluemixNodeRED](Assets)
 
 @Author: [Victor Bolinches Marin](https://github.com/vicboma1)
