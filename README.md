@@ -10,8 +10,8 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [Formación Universidades](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#formación-universidades)
 * [Buenas prácticas](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#buenas-prácticas
 * Node-RED
-  * Ejemplos Node-RED
-  * [Plantilla Node-RED](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
+  * Ejemplos
+  * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
 
 ## Formación Universidades
 * [Documento](https://docs.google.com/presentation/d/11zcWUh3JsWJvEDAjDNyUHMoFZtt8HrPHAjRSE8j-vtY/edit?usp=sharing)
