@@ -18,11 +18,11 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 ## Buenas prácticas
 * [Documento](https://docs.google.com/presentation/d/1MwDbsneXwVstXnr4pLOn9EctioYYvdqj8p1kAFT6WE0/edit?usp=sharing)
 
-## Ejemplos Node-RED
-* [Starter]()
-* [Oscilador]()
-* [Banco de sonidos]()
-* [El Vigilante]()
+## Ejemplos Node-RED  - WIP
+* Starter
+* Oscilador
+* Banco de sonidos
+* El Vigilante
 
 ## Plantilla Node-RED
 * [Assets](https://github.com/vicboma1/TemplateBluemixNodeRED)
