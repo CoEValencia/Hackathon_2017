@@ -6,7 +6,7 @@ Un hackathon es una gran oportunidad para aprender,
 sin importar si eres estudiante, profesionista, emprendedor o empleado
 ```
 
-## Tarjet
+## Target
 
 ![](https://github.com/CoEValencia/Hackathon_2017/blob/master/assets/_target.png)
 
