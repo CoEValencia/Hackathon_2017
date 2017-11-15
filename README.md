@@ -26,7 +26,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [Documento](https://docs.google.com/presentation/d/1MwDbsneXwVstXnr4pLOn9EctioYYvdqj8p1kAFT6WE0/edit?usp=sharing)
 
 ## Ejemplos Node-RED
-* [Starter](https://github.com/vicboma1/StarterKitBluemixHands){:target="_blank"}
+* <a href="https://github.com/vicboma1/StarterKitBluemixHands" target="_blank">Starter</a>
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix){:target="_blank"}
 * [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix){:target="_blank"}
 * [IoTools](https://github.com/vicboma1/IoToolsBluemix){:target="_blank"}
