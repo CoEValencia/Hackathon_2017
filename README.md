@@ -26,11 +26,11 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [Documento](https://docs.google.com/presentation/d/1MwDbsneXwVstXnr4pLOn9EctioYYvdqj8p1kAFT6WE0/edit?usp=sharing)
 
 ## Ejemplos Node-RED
-* <a href="https://github.com/vicboma1/StarterKitBluemixHands" target="_blank">Starter</a>
-* [Oscilador](https://github.com/vicboma1/OscilatorBluemix){:target="_blank"}
-* [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix){:target="_blank"}
-* [IoTools](https://github.com/vicboma1/IoToolsBluemix){:target="_blank"}
-* [El Vigilante](https://github.com/vicboma1/ElVigilanteBluemix){:target="_blank"}
+* [Starter]("https://github.com/vicboma1/StarterKitBluemixHands")
+* [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
+* [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
+* [IoTools](https://github.com/vicboma1/IoToolsBluemix)
+* [El Vigilante](https://github.com/vicboma1/ElVigilanteBluemix)
 
 ## Plantilla Node-RED
 * [Assets](https://github.com/vicboma1/TemplateBluemixNodeRED)
