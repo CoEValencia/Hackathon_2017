@@ -6,17 +6,18 @@ Un hackathon es una gran oportunidad para aprender,
 sin importar si eres estudiante, profesionista, emprendedor o empleado
 ```
 
-## Target
-
-![](https://github.com/CoEValencia/Hackathon_2017/blob/master/assets/_target.png)
-
 
 ## Índice
+* [Target](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#target)
 * [Formación Universidades](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#formación-universidades)
 * [Buenas prácticas](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#buenas-prácticas)
 * Node-RED
   * Ejemplos
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
+
+## Target
+
+![](https://github.com/CoEValencia/Hackathon_2017/blob/master/assets/_target.png)
 
 ## Formación Universidades
 * [Documento](https://docs.google.com/presentation/d/11zcWUh3JsWJvEDAjDNyUHMoFZtt8HrPHAjRSE8j-vtY/edit?usp=sharing)
