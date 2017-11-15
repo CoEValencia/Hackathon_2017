@@ -28,7 +28,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 ## Ejemplos Node-RED  - WIP
 * [Starter](https://github.com/vicboma1/StarterKitBluemixHands)
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
-* Banco de sonidos
+* [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
 * El Vigilante
 
 ## Plantilla Node-RED
