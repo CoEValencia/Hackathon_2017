@@ -29,6 +29,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [Starter](https://github.com/vicboma1/StarterKitBluemixHands)
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
 * [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
+* [IoTools](https://github.com/vicboma1/IoToolsBluemix)
 * El Vigilante
 
 ## Plantilla Node-RED
