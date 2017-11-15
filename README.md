@@ -1,4 +1,4 @@
-# Hackathon 2017 - Capgemini | IBM Bluemix  --- WIP
+# Hackathon 2017 - Capgemini | IBM Bluemix
 Repositorio de recursos para la hackathon 
 
 ```
@@ -12,7 +12,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * [Formación Universidades](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#formación-universidades)
 * [Buenas prácticas](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#buenas-prácticas)
 * Node-RED
-  * Ejemplos
+  * [Ejemplos]((https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#ejemplos-node-red)
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
 
 ## Target
@@ -25,7 +25,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 ## Buenas prácticas
 * [Documento](https://docs.google.com/presentation/d/1MwDbsneXwVstXnr4pLOn9EctioYYvdqj8p1kAFT6WE0/edit?usp=sharing)
 
-## Ejemplos Node-RED  - WIP
+## Ejemplos Node-RED
 * [Starter](https://github.com/vicboma1/StarterKitBluemixHands)
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
 * [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
