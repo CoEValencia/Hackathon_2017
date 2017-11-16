@@ -15,7 +15,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * Node-RED
   * [Ejemplos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#ejemplos-node-red)
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
-* [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#)
+* [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
 
 
 ## Target
