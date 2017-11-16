@@ -62,10 +62,10 @@ VIERNES 24 de Noviembre
   * Mini formación Node-RED
 
 ## Créditos
-  * Organizador : Capgemini
-  * Patrocinador : IBM
-  * Colaborador Principal : Universitat de Valencia
-  * Colaboradores : Universidad { Madrid - Murcia - Oviedo)
+  * Organizador : [Capgemini](https://www.capgemini.com/es-es/)
+  * Patrocinador : [IBM](https://www.ibm.com/es-es/)
+  * Colaborador Principal : [Universitat de Valencia](https://www.uv.es/etse)
+  * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
   
   
   
