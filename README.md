@@ -56,7 +56,7 @@ VIERNES 24 de Noviembre
 
 ## Miscelaneous
 * Sesión 17-11-2017 | Presentación Previa
-  * Introducción al Hackathon
+  * [Introducción al Hackathon](https://docs.google.com/presentation/d/1Upz5I0T2dSi83koka2FFb3nDQbilcwgfMgNkd6bXB3g/edit#slide=id.p3)
   * Introducción a IBM Cloud
   * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
   * Mini formación Node-RED
