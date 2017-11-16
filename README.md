@@ -66,10 +66,6 @@ VIERNES 24 de Noviembre
   * Patrocinador : [IBM](https://www.ibm.com/es-es/)
   * Colaborador Principal : [Universitat de Valencia](https://www.uv.es/etse)
   * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
-  
-  
-  
-  
-@Authors: 
- * [Victor Bolinches Marin](https://github.com/vicboma1)
- * Ángel Luis Marín
+  * Autores
+    * [Victor Bolinches Marin](https://github.com/vicboma1)
+    * Ángel Luis Marín
