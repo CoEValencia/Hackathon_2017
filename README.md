@@ -9,6 +9,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 
 
 ## Índice
+* [Agenda](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#agenda)
 * [Target](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#target)
 * [Formación Universidades](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#formación-universidades)
 * [Buenas prácticas](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#buenas-prácticas)
@@ -17,6 +18,21 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
 * [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
 * [Créditos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#créditos)
+
+## Agenda
+```
+VIERNES 24 de Noviembre
+
+08:45	Recepción de participantes
+09:00	Charla inaugural
+09:30	Inicio oficial del tiempo de desarrollo
+14:00	Parada para comer y tomar fuerzas
+15:00	Seguimos con el desarrollo
+19:30	Fin oficial del tiempo de desarrollo
+20:00	Demos de los distintos equipos
+21:00	Fallo del jurado y entrega de premios locales y nacionales
+21:30	Clausura del evento y cócte
+```
 
 ## Target
 
