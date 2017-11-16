@@ -1,5 +1,6 @@
-# Hackathon 2017 - Capgemini | IBM Bluemix
-Repositorio de recursos para la hackathon 
+# Hackathon 2017
+### Capgemini | IBM Bluemix
+Repositorio de recursos
 
 ```
 Un hackathon es una gran oportunidad para aprender, 
