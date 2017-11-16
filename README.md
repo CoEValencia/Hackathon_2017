@@ -15,6 +15,8 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 * Node-RED
   * [Ejemplos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#ejemplos-node-red)
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
+* [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#)
+
 
 ## Target
 
@@ -35,5 +37,12 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 
 ## Plantilla Node-RED
 * [Assets](https://github.com/vicboma1/TemplateBluemixNodeRED)
+
+## Miscelaneous
+* Sesión 17-11-2017 | Presentación Previa
+  * Introducción al Hackathon
+  * Introducción a IBM Cloud
+  * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
+  * Mini formación Node-RED
 
 @Author: [Victor Bolinches Marin](https://github.com/vicboma1)
