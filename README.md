@@ -1,5 +1,5 @@
 # Hackathon 2017
-### Capgemini | IBM Bluemix
+### Capgemini | IBM Bluemix | Universitat de Valencia 
 Repositorio de recursos
 
 ```
@@ -16,7 +16,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
   * [Ejemplos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#ejemplos-node-red)
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
 * [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
-
+* [Créditos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#creditos)
 
 ## Target
 
@@ -45,4 +45,11 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
   * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
   * Mini formación Node-RED
 
+## Créditos
+  * Organizador : Capgemini
+  * Patrocinador : IBM
+  * Colaborador Principal : Universitat de Valencia
+  * Colaboradores : Universidad { Madrid - Murcia - Oviedo)
+  
+  
 @Author: [Victor Bolinches Marin](https://github.com/vicboma1)
