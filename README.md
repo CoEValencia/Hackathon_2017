@@ -70,4 +70,6 @@ VIERNES 24 de Noviembre
   
   
   
-@Author: [Victor Bolinches Marin](https://github.com/vicboma1)
+@Authors: 
+ * [Victor Bolinches Marin](https://github.com/vicboma1)
+ * Ángel Luis Marín
