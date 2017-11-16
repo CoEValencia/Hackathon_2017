@@ -31,7 +31,7 @@ VIERNES 24 de Noviembre
 19:30	Fin oficial del tiempo de desarrollo
 20:00	Demos de los distintos equipos
 21:00	Fallo del jurado y entrega de premios locales y nacionales
-21:30	Clausura del evento y cócte
+21:30	Clausura del evento y cóctel
 ```
 
 ## Target
