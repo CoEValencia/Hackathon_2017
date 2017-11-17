@@ -69,3 +69,5 @@ VIERNES 24 de Noviembre
   * Autores :
     * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com
     * Ángel Luis Marín
+
+## [Slack]( https://join.slack.com/t/gameofcloud2017/shared_invite/enQtMjY4OTg5ODY4NTI5LTA3OWUwMWY4YWU3NjJiYmJkNDk2ZTgzN2IzNTUzY2ZlYTlmZWIwNjA4ZDlkNWUzMDY0OWE5ZTQ1MjU4MjI2OTQ) <-- Grupo de invitados
