@@ -68,4 +68,4 @@ VIERNES 24 de Noviembre
   * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
   * Autores :
     * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com
-    * Ángel Luis Marín 
+    * Ángel Luis Marín
