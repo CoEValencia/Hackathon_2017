@@ -67,5 +67,5 @@ VIERNES 24 de Noviembre
   * Colaborador Principal : [Universitat de Valencia](https://www.uv.es/etse)
   * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
   * Autores :
-    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin@capgemini.com
+    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com
     * Ángel Luis Marín 
