@@ -60,6 +60,7 @@ VIERNES 24 de Noviembre
   * Introducción a IBM Cloud
   * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
   * Mini formación Node-RED
+  * Video de la sesión](https://nsj1vss.webex.com/apis/video-load.do?recordingDir=AAAAApWlqhnhjZRn_-N1Q2vOCmgmemKwWMboLFyBHm5KNrWlJ10-ATh5d7vRg91O7SW1jkDAdaDKstpKdpBT35TuJQj5x0tlvog59icIryKi3ian5Bkv43xA9VkZORV4oKl2FmMt2KFOXTHHa-9cgQT181TNN6Ed_vQnrPXrwuGhMuLPCeQDeMP6RGyEMB6lDEhY0A2&timestamp=1511168477219&token=AAAAAjJlhaLNfp1B13iD40dxZIfFKUE0OikANNcEmx8W89yw0&sessionId=undefined&fileName=screen_0_8473754.mp4)
 
 ## Créditos
   * Organizador : [Capgemini](https://www.capgemini.com/es-es/)
@@ -67,8 +68,8 @@ VIERNES 24 de Noviembre
   * Colaborador Principal : [Universitat de Valencia](https://www.uv.es/etse)
   * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
   * Autores :
-    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com
+    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com (Valencia)
     * Ángel Luis Marín
-    * Luis Fernandez Palacio : luis.fernandez-palacio [@] capgemini.com
+    * Luis Fernandez Palacio : luis.fernandez-palacio [@] capgemini.com (Oviedo)
 
 ## [Slack]( https://join.slack.com/t/gameofcloud2017/shared_invite/enQtMjY4OTg5ODY4NTI5LTA3OWUwMWY4YWU3NjJiYmJkNDk2ZTgzN2IzNTUzY2ZlYTlmZWIwNjA4ZDlkNWUzMDY0OWE5ZTQ1MjU4MjI2OTQ) <-- Grupo de invitados
