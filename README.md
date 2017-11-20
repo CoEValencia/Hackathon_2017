@@ -46,7 +46,7 @@ VIERNES 24 de Noviembre
 
 ## Ejemplos Node-RED
 * [Starter](https://github.com/vicboma1/StarterKitBluemixHands)
-* Mock Starter
+* [Mock Starter](https://github.com/vicboma1/MockKinectBluemix)
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
 * [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
 * [IoTools](https://github.com/vicboma1/IoToolsBluemix)
