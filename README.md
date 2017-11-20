@@ -78,4 +78,5 @@ VIERNES 24 de Noviembre
     * Oscar Valdelvira De La Mata : oscar.valdelvira-de-la-mata [@] capgemini.com (Madrid)
     
     
-## [Slack]( https://join.slack.com/t/gameofcloud2017/shared_invite/enQtMjY4OTg5ODY4NTI5LTA3OWUwMWY4YWU3NjJiYmJkNDk2ZTgzN2IzNTUzY2ZlYTlmZWIwNjA4ZDlkNWUzMDY0OWE5ZTQ1MjU4MjI2OTQ) <-- Grupo de invitados
+## Grupo Slack
+  * gameofcloud2017
