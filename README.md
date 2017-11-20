@@ -79,4 +79,4 @@ VIERNES 24 de Noviembre
     
     
 ## Grupo Slack
-  * gameofcloud2017
+   * gameofcloud2017
