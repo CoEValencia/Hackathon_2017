@@ -68,8 +68,10 @@ VIERNES 24 de Noviembre
   * Colaborador Principal : [Universitat de Valencia](https://www.uv.es/etse)
   * Colaboradores : Universidad { [Madrid](http://www.upm.es/) - [Murcia](http://www.um.es/) - [Oviedo](http://www.uniovi.es/) }
   * Autores :
-    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com (Valencia)
+    * Víctor Bolinches Marín
     * Ángel Luis Marín
+  * Contacto :
+    * [Víctor Bolinches Marín](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com (Valencia)
     * Luis Fernandez Palacio : luis.fernandez-palacio [@] capgemini.com (Oviedo)
 
 ## [Slack]( https://join.slack.com/t/gameofcloud2017/shared_invite/enQtMjY4OTg5ODY4NTI5LTA3OWUwMWY4YWU3NjJiYmJkNDk2ZTgzN2IzNTUzY2ZlYTlmZWIwNjA4ZDlkNWUzMDY0OWE5ZTQ1MjU4MjI2OTQ) <-- Grupo de invitados
