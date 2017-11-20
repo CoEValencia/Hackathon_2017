@@ -36,7 +36,7 @@ VIERNES 24 de Noviembre
 
 ## Target
 
-![](https://github.com/CoEValencia/Hackathon_2017/blob/master/assets/_target.png)
+![](https://github.com/CoEValencia/Hackathon_2017/blob/master/assets/target.png)
 
 ## Formación Universidades
 * [Documento](https://docs.google.com/presentation/d/11zcWUh3JsWJvEDAjDNyUHMoFZtt8HrPHAjRSE8j-vtY/edit?usp=sharing)
