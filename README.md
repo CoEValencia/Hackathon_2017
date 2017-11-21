@@ -23,7 +23,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 ```
 VIERNES 24 de Noviembre
 
-08:45	Recepción de participantes
+08:30	Recepción de participantes
 09:00	Charla inaugural
 09:30	Inicio oficial del tiempo de desarrollo
 14:00	Parada para comer y tomar fuerzas
