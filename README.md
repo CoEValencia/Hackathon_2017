@@ -46,7 +46,7 @@ VIERNES 24 de Noviembre
 
 ## Ejemplos Node-RED
 * [Hola Mundo](https://github.com/vicboma1/HelloWorldBluemix)
-* Hola Mundo IoT Watson
+* [Hola Mundo IoT Watson](https://github.com/vicboma1/HelloWorldIoTWatsonBluemix)
 * [Starter Body Parts](https://github.com/vicboma1/StarterKitBluemixHands)
 * [Mock Starter Body Parts](https://github.com/vicboma1/MockKinectBluemix)
 * [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
