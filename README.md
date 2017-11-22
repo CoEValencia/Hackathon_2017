@@ -64,7 +64,7 @@ VIERNES 24 de Noviembre
   * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
   * Mini formación Node-RED
   * [Video de la sesión](https://nsj1vss.webex.com/apis/video-load.do?recordingDir=AAAAAn3qhfWgPI9e2Cb29kaPlKefj-_fhPl7NPWpCKfSZ7MtC9WEQefxGRIWjkS4Yr0wEkrSkYo1daG1U2IZDvq0ynBI7ZEUP8QLvK4WEDYhvwNe--QR0-uGWpODOYUC6PUDJRMMp3uH6pyfZ6h__cQBVE6H1jSe0kzLYPApmkE2n0HfinVKh335rJHJweEm3xUn_A2&timestamp=1511279617267&token=AAAAAqCHYj3yTqEObjsaAWImL4eGUSJyN9bT9Z5AdaSELxfc0&sessionId=undefined&fileName=screen_0_8473754.mp4)
-  * [KinectRuntime-v2.0_1409-Setup - 91MB ](https://drive.google.com/file/d/10CbTRPyBLq3hFRe9sOAhuM2IRrHjj8y3/view?usp=sharing)
+  * [SDK KinectRuntime-v2.0_1409-Setup - 91MB ](https://drive.google.com/file/d/10CbTRPyBLq3hFRe9sOAhuM2IRrHjj8y3/view?usp=sharing)
 
 ## Créditos
   * Organizador : [Capgemini](https://www.capgemini.com/es-es/)
