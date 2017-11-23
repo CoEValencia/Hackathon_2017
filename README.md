@@ -18,6 +18,7 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
   * [Plantilla](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#plantilla-node-red)
 * [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
 * [Créditos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#créditos)
+* [Grupo Slack](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#grupo-slack)
 
 ## Agenda
 ```
