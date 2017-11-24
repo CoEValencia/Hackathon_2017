@@ -8,6 +8,14 @@ sin importar si eres estudiante, profesionista, emprendedor o empleado
 ```
 
 
+# [Presentación del proyecto x equipos](https://docs.google.com/spreadsheets/d/1yE9XjOc45IKLQOdP3zzNLZ4ALXC2VtDaukNkjv3oOxA/edit?usp=sharing) <-- Click
+```
+Subir o compartir las urls de la documentación, video o solución técnica generada para el jurado
+Recomendación : Usar DRIVE
+```
+
+
+
 ## Índice
 * [Agenda](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#agenda)
 * [Target](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#target)
