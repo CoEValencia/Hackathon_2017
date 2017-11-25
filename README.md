@@ -79,10 +79,10 @@ VIERNES 24 de Noviembre
     * Víctor Bolinches
     * Ángel Luis Marín
   * Contacto :
-    * [Víctor Bolinches](https://github.com/vicboma1) : victor-manuel.bolinches-marin [@] capgemini.com (Valencia)
-    * Luis Fernandez Palacio : luis.fernandez-palacio [@] capgemini.com (Oviedo)
-    * Pedro Luis Mateo : pedro-luis.mateo-navarro [@] capgemini.com (Murcia)
-    * Oscar Valdelvira De La Mata : oscar.valdelvira-de-la-mata [@] capgemini.com (Madrid)
+    * [Víctor Bolinches](https://github.com/vicboma1) : 
+    * Luis Fernandez Palacio : 
+    * Pedro Luis Mateo : 
+    * Oscar Valdelvira De La Mata : 
     
     
 ## Grupo Slack
