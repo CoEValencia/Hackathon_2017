@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<title>BISIG</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('https://raw.githubusercontent.com/0xkiyo/git-talk17/master/final.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#background {
+  z-index: 1000;
+  border: none;
+  background: none;
+  opacity: 1;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+#background.visible-rojo {
+  border: 10px solid red;
+  background: rgba(0,0,0,0.1);
+  display: block;
+}
+
+#background.visible-blue {
+  border: 10px solid blue;
+  background: rgba(0,0,0,0.1);
+  display: block;
+}
+
+#background.hidden {
+  display: none;
+}
+
+#menuButton.top {
+  z-index: 1100;
+  position: absolute;
+}
+
+#menuButton.normal {
+  z-index: 1;
+}
+
+#menu {
+  z-index: 1050;
+}
+
+</style>
+<body>
+  <div id="background" class="hidden"></div>
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-container w3-xlarge">
+    <p><button id="menuButton" class="normal" onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-black">menu</button></p>
+  </div>
+  <div class="w3-display-middle">
+    <h1 id="titulo" class="w3-jumbo w3-animate-top w3-animate-opacity">BISIG</h1>
+    <img id="izquierda" class="w3-jumbo w3-animate-top" src="https://raw.githubusercontent.com/0xkiyo/git-talk17/master/izd.png" hidden>
+    <img id="derecho" class="w3-jumbo w3-animate-top" src="https://raw.githubusercontent.com/0xkiyo/git-talk17/master/drch.png" hidden>
+    <img id="parada" class="w3-jumbo w3-animate-top" src="https://raw.githubusercontent.com/0xkiyo/git-talk17/master/parada.png" hidden>
+    <img id="error" class="w3-jumbo w3-animate-top" src="https://raw.githubusercontent.com/0xkiyo/git-talk17/master/error.png" hidden>
+  </div>
+
+</div>
+<script>
+  var displayBackgroundRojo = function displayBackgroundRojo() {
+    document.getElementById('menu').style.display='block';
+    var bg = document.getElementById('background').className;
+    if (bg !== 'visible-rojo') {
+      document.getElementById('background').className = 'visible-rojo';
+    }
+    document.getElementById('titulo').hidden = true;
+    document.getElementById('menuButton').className = document.getElementById('menuButton').className.replace('normal', 'top');
+    document.getElementById('menu').style.display='none';
+};
+  var displayBackgroundBlue = function displayBackgroundBlue() {
+    document.getElementById('menu').style.display='block';
+    var bg = document.getElementById('background').className;
+    if (bg !== 'visible-blue') {
+      document.getElementById('background').className = 'visible-blue';
+    }
+    document.getElementById('titulo').hidden = true;
+    document.getElementById('menuButton').className = document.getElementById('menuButton').className.replace('normal', 'top');
+    document.getElementById('menu').style.display='none';
+};
+
+  var displayAyuda = function displayAyuda() {
+    var bg = document.getElementById('background').className;
+    if (bg !== 'hidden') {
+      document.getElementById('background').className = 'hidden';
+    }
+  }
+</script>
+<!-- Menu Modal -->
+<div id="menu" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-display-topleft w3-container w3-xlarge">
+    <p><button onclick="displayBackgroundBlue();" class="w3-button w3-black">TUTORIAL</button></p>
+    <p><button onclick="displayBackgroundRojo();" class="w3-button w3-black">TEST</button></p>
+    <p><button onclick="displayAyuda();" class="w3-button w3-black">AYUDA</button></p>
+    </div>
+  </div>
+  <div class="w3-display-topright w3-container w3-xlarge w3-animate-opacity">
+    <p><button onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-black">X</button></p>
+  </div>
+</div>
+
+<script>
+function compruebaTecla (e) { 
+  var keyCode = document.all ? e.which : e.keyCode; 
+  
+  if (keyCode == 39){
+    document.getElementById("derecho").hidden = false;
+    document.getElementById("izquierda").hidden = true;
+    document.getElementById("parada").hidden = true;
+    document.getElementById("error").hidden = true;
+    document.getElementById("titulo").hidden = true;
+  }
+  else if (keyCode == 38) {
+    document.getElementById("derecho").hidden = true;
+    document.getElementById("izquierda").hidden = true;
+    document.getElementById("parada").hidden = false;
+    document.getElementById("error").hidden = true;
+    document.getElementById("titulo").hidden = true;
+  }
+  else if (keyCode == 37){
+    document.getElementById("derecho").hidden = true;
+    document.getElementById("izquierda").hidden = false;
+    document.getElementById("parada").hidden = true;
+    document.getElementById("error").hidden = true;
+    document.getElementById("titulo").hidden = true;
+  }
+  else if (keyCode == 40) {
+    document.getElementById("derecho").hidden = true;
+    document.getElementById("izquierda").hidden = true;
+    document.getElementById("parada").hidden = true;
+    document.getElementById("error").hidden = false;
+    document.getElementById("titulo").hidden = true;
+  }
+} 
+window.onkeydown = compruebaTecla;
+</script>
+</div>
+</body>
+</html>
+
