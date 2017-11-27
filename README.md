@@ -21,7 +21,7 @@ Recomendación : Usar DRIVE
 * [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
 * [Créditos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#créditos)
 * [Grupo Slack](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#grupo-slack)
-
+* [Presentación de Trabajos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#presentación-de-trabajos)
 
 ## Agenda
 ```
@@ -88,3 +88,9 @@ VIERNES 24 de Noviembre
 ## Grupo Slack
    * gameofcloud2017
 
+
+## Presentación de Trabajos
+   * Madrid
+   * Murcia
+   * Oviedo
+   * Valencia
