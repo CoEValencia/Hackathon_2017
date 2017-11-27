@@ -21,7 +21,7 @@ Recomendación : Usar DRIVE
 * [Miscelaneous](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#miscelaneous)
 * [Créditos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#créditos)
 * [Grupo Slack](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#grupo-slack)
-* [Presentación de Trabajos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#presentación-de-trabajos)
+* [Presentación de Trabajos](https://github.com/CoEValencia/Hackathon_2017/blob/master/README.md#presentación-de-trabajos-)
 
 ## Agenda
 ```
@@ -90,7 +90,7 @@ VIERNES 24 de Noviembre
 
 
 ## Presentación de Trabajos [*](https://docs.google.com/spreadsheets/d/1yE9XjOc45IKLQOdP3zzNLZ4ALXC2VtDaukNkjv3oOxA/edit#gid=0)
-   * Madrid
-   * Murcia
-   * Oviedo
-   * Valencia
+   * [Madrid](https://github.com/CoEValencia/Hackathon_2017/tree/master/assets/presentaciones/madrid)
+   * [Murcia](https://github.com/CoEValencia/Hackathon_2017/tree/master/assets/presentaciones/murcia)
+   * [Oviedo](https://github.com/CoEValencia/Hackathon_2017/tree/master/assets/presentaciones/oviedo)
+   * [Valencia](https://github.com/CoEValencia/Hackathon_2017/tree/master/assets/presentaciones/valencia)
