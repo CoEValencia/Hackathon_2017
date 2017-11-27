@@ -89,7 +89,7 @@ VIERNES 24 de Noviembre
    * gameofcloud2017
 
 
-## Presentación de Trabajos
+## Presentación de Trabajos [*](https://docs.google.com/spreadsheets/d/1yE9XjOc45IKLQOdP3zzNLZ4ALXC2VtDaukNkjv3oOxA/edit#gid=0)
    * Madrid
    * Murcia
    * Oviedo
