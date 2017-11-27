@@ -1,0 +1,289 @@
+<html>
+
+<head>
+    <style>
+        body {
+            background: url(https://s3.envato.com/files/165244545/background.jpg);
+        }
+
+        canvas {
+            height: 100%;
+            width: 49%;
+            border: 1px solid #000000;
+        }
+    </style>
+</head>
+
+<body>
+    <img id="fondo" src="https://s3.envato.com/files/165244545/background.jpg" style="display: none" />
+    <img id="bullet" src="https://image.flaticon.com/icons/png/128/224/224679.png" style="display:none" />
+    <img id="heart" src="https://images.emojiterra.com/emojione/v3/128px/2764.png" style="display:none" />
+    <img id="shield" src="https://maxcdn.icons8.com/Share/icon/Military//knight_shield1600.png" style="display: none" />
+    <img id="bang" src="https://i.imgur.com/JuYBzFD.png" style="display:none" />
+
+    <canvas id="player1"></canvas>
+    <canvas id="player2"></canvas>
+
+
+
+
+
+    <script>
+        var loc = window.location;
+        if (loc.protocol === "https:") { wsUri = "wss:"; }
+        // This needs to point to the web socket in the Node-RED flow
+        // ... in this case it's ws/simple
+        wsUri += "//" + loc.host + loc.pathname.replace("page", "ws/socket");
+        let ws = new WebSocket(wsUri);
+
+
+        let canvas1 = document.getElementById("player1");
+        let canvas2 = document.getElementById("player2");
+
+        let game = new Game(canvas1, canvas2);
+
+        ws.onmessage = function (s) {
+            let action = JSON.parse(s.data).parts;
+
+            if (action.userId == 1) {
+                game.player1.setAction(action.name);
+            } else
+                game.player2.setAction(action.name);
+
+        }
+
+        game.play();
+
+       
+
+        function Game(canvas1, canvas2) {
+            this.player1 = new Player(canvas1);
+            this.player2 = new Player(canvas2);
+
+            this.update = function () {
+                this.player1.show();
+                this.player2.show();
+            }
+
+
+            this.play = async function () {
+               while (this.player1.isAlive() && this.player2.isAlive()) {
+                    while (!this.player1.action || !this.player2.action) {
+                        this.update();
+                        await sleep(1000);
+                    }
+
+                    console.log(this.player2.action)
+                    console.log(this.player1.action)
+                    switch (this.player1.action) {
+                        case 'Shoot':
+                            this.player1.shoot();
+                            if (this.player2.action != 'Shield')
+                            this.player2.hitted();
+                            
+                                this.update();
+                            break;
+                        case 'Shield':
+                            this.player1.shield();
+                            this.update();
+                            break;
+                        case 'Charge':
+                            this.player1.reload();
+                            this.update();
+                            break;
+                    }
+                    switch (this.player2.action) {
+                        case 'Shoot':
+                            this.player2.shoot();
+                            if (this.player1.action != 'Shield')
+                               this.player1.hitted();
+                                this.update();
+                            break;
+                        case 'Shield':
+                        this.player2.shield();
+                            this.update();
+                            break;
+                        case 'Charge':
+                        this.player2.reload();
+                            this.update();
+                            break;
+                    }
+                    this.update();
+
+                    this.player1.action = undefined;
+                    this.player2.action = undefined;
+
+                    sleep(1500);
+
+                }
+                if(this.player1.isAlive())
+                    alert("Gana el jugador 1");
+                else
+                    alert("Gana el jugador 2");
+            }
+
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+
+        }
+
+
+        function Player(canvas) {
+            this.bullets = [new Bullet(0), new Bullet(20), new Bullet(40)];
+            this.lifes = [new Life(canvas.width - 50), new Life(canvas.width - 100), new Life(canvas.width - 150)];
+            this.ctx = canvas.getContext("2d");
+            this.bang = new Bang();
+            this.escudo = new Shield(this.ctx);
+            this.action;
+
+            this.show = function () {
+                for (let bullet of this.bullets) {
+                    bullet.show(this.ctx);
+                }
+
+                for (let life of this.lifes) {
+                    life.show(this.ctx)
+                }
+            }
+
+            this.show();
+
+            this.hitted = function () {
+                if (this.lifes.length <= 0) {
+                    alert("Has perdido");
+                    return;
+                }
+                this.lifes[this.lifes.length - 1].remove(this.ctx);
+                this.lifes.splice(this.lifes.length - 1, 1);
+                this.show();
+            }
+
+            this.reload = function () {
+                if (this.bullets.length >= 5)
+                    return;
+
+                this.bullets.push(new Bullet(this.bullets.length * 20))
+                this.show();
+            }
+
+            this.shoot = function () {
+                if (this.bullets.length <= 0) {
+                    return;
+                }
+
+                this.bang.show(this.ctx);
+                this.bullets[this.bullets.length - 1].remove(this.ctx);
+                this.bullets.splice(this.bullets.length - 1, 1);
+                this.show();
+
+            }
+
+            this.shield = function () {
+                this.escudo.show();
+            }
+
+            this.isAlive = function () {
+                return this.lifes.length > 0;
+            }
+
+            this.setAction = function (action) {
+                this.action = action;
+            }
+        }
+
+
+        function Bullet(x) {
+            this.x = x;
+            this.y = 5;
+            this.bulletImg = document.getElementById("bullet");
+
+
+            this.show = function (ctx) {
+                ctx.drawImage(this.bulletImg, this.x, this.y, this.bulletImg.width * 0.3, this.bulletImg.height * 0.1);
+            }
+
+            this.remove = function (ctx) {
+                let img = ctx.createImageData(this.bulletImg.width * 0.3, this.bulletImg.height * 0.1);
+                for (let i = img.data.length; --i >= 0;) {
+                    img.data[i] = 0;
+                }
+                ctx.putImageData(img, this.x, this.y);
+            }
+        }
+
+        function Life(x) {
+            this.x = x;
+            this.y = 5;
+            this.heartImg = document.getElementById("heart");
+
+            this.show = function (ctx) {
+                ctx.drawImage(this.heartImg, this.x, this.y, this.heartImg.width * 0.3, this.heartImg.height * 0.1);
+            }
+
+            this.remove = function (ctx) {
+                let img = ctx.createImageData(this.heartImg.width * 0.3, this.heartImg.height * 0.1);
+                for (let i = img.data.length; --i >= 0;) {
+                    img.data[i] = 0;
+                }
+                ctx.putImageData(img, this.x, this.y);
+            }
+        }
+
+        function Bang() {
+            this.bangImg = document.getElementById("bang");
+            this.x = 80;
+            this.y = 20;
+
+            this.show = async function (ctx) {
+                ctx.drawImage(this.bangImg, this.x, this.y, this.bangImg.height * 0.3, this.bangImg.width * 0.3);
+                await sleep(3000);
+
+                this.remove(ctx);
+            }
+
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+            this.remove = function (ctx) {
+                let img = ctx.createImageData(this.bangImg.width * 0.3, this.bangImg.height * 0.3);
+                for (let i = img.data.length; --i >= 0;) {
+                    img.data[i] = 0;
+                }
+                ctx.putImageData(img, this.x, this.y);
+            }
+        }
+
+        function Shield(ctx) {
+            this.x = 60;
+            this.y = 40;
+            this.shieldImage = document.getElementById("shield");
+
+            this.show = async function () {
+                ctx.drawImage(this.shieldImage, this.x, this.y, this.shieldImage.width * 0.1, this.shieldImage.height * 0.05);
+                await sleep(2000);
+                this.remove(ctx);
+            }
+
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+            this.remove = function (ctx) {
+                let img = ctx.createImageData(this.shieldImage.width * 0.3, this.shieldImage.height * 0.1);
+                for (let i = img.data.length; --i >= 0;) {
+                    img.data[i] = 0;
+                }
+                ctx.putImageData(img, this.x, this.y);
+            }
+        }
+
+
+
+    </script>
+</body>
+
+
+</html>
