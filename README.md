@@ -49,26 +49,26 @@ VIERNES 24 de Noviembre
 * [Documento](https://docs.google.com/presentation/d/1MwDbsneXwVstXnr4pLOn9EctioYYvdqj8p1kAFT6WE0/edit?usp=sharing)
 
 ## Ejemplos Node-RED
-* [Hola Mundo](https://github.com/vicboma1/HelloWorldBluemix)
-* [Hola Mundo IoT Watson](https://github.com/vicboma1/HelloWorldIoTWatsonBluemix)
-* [Starter Body Parts](https://github.com/vicboma1/StarterKitBluemixHands)
-* [Mock Starter Body Parts](https://github.com/vicboma1/MockKinectBluemix)
-* [Oscilador](https://github.com/vicboma1/OscilatorBluemix)
-* [Banco de sonidos](https://github.com/vicboma1/BancoDeSonidosBluemix)
-* [IoTools](https://github.com/vicboma1/IoToolsBluemix)
-* [El Vigilante](https://github.com/vicboma1/ElVigilanteBluemix)
+* [Hola Mundo](https://goo.gl/FgkDwf)
+* [Hola Mundo IoT Watson](https://goo.gl/q3rcnd)
+* [Starter Body Parts](https://goo.gl/FgZ9jX)
+* [Mock Starter Body Parts](https://goo.gl/8FYzdg)
+* [Oscilador](https://goo.gl/kzkho1)
+* [Banco de sonidos](https://goo.gl/9oHvRF)
+* [IoTools](https://goo.gl/oyC1bD)
+* [El Vigilante](https://goo.gl/fioVfG)
 
 ## Plantilla Node-RED
-* [Assets](https://github.com/vicboma1/TemplateBluemixNodeRED)
+* [Assets](https://goo.gl/Jq82XH)
 
 ## Miscelaneous
 * Sesión 17-11-2017 | Presentación Previa
-  * [Introducción al Hackathon](https://docs.google.com/presentation/d/1Upz5I0T2dSi83koka2FFb3nDQbilcwgfMgNkd6bXB3g/edit#slide=id.p3)
+  * [Introducción al Hackathon](https://goo.gl/B2dqEg)
   * Introducción a IBM Cloud
-  * [Ejemplo base del Hackathon mediante kinect](https://docs.google.com/presentation/d/142oFR67kgO-fImuxex85uCqkzVGXnQiaJhZscMotLh4/edit?usp=sharing())
+  * [Ejemplo base del Hackathon mediante kinect](https://goo.gl/22Hrqg)
   * Mini formación Node-RED
   * [Video de la sesión](https://nsj1vss.webex.com/apis/video-load.do?recordingDir=AAAAAn3qhfWgPI9e2Cb29kaPlKefj-_fhPl7NPWpCKfSZ7MtC9WEQefxGRIWjkS4Yr0wEkrSkYo1daG1U2IZDvq0ynBI7ZEUP8QLvK4WEDYhvwNe--QR0-uGWpODOYUC6PUDJRMMp3uH6pyfZ6h__cQBVE6H1jSe0kzLYPApmkE2n0HfinVKh335rJHJweEm3xUn_A2&timestamp=1511279617267&token=AAAAAqCHYj3yTqEObjsaAWImL4eGUSJyN9bT9Z5AdaSELxfc0&sessionId=undefined&fileName=screen_0_8473754.mp4)
-  * [SDK KinectRuntime-v2.0_1409-Setup - 91MB ](https://drive.google.com/file/d/10CbTRPyBLq3hFRe9sOAhuM2IRrHjj8y3/view?usp=sharing)
+  * [SDK KinectRuntime-v2.0_1409-Setup - 91MB ](https://goo.gl/yyNAde)
 
 ## Créditos
   * Organizador : [Capgemini](https://www.capgemini.com/es-es/)
@@ -79,7 +79,7 @@ VIERNES 24 de Noviembre
     * Víctor Bolinches
     * Ángel Luis Marín
   * Contacto :
-    * [Víctor Bolinches](https://github.com/vicboma1) : 
+    * [Víctor Bolinches](https://goo.gl/47pYiT1) : 
     * Luis Fernandez Palacio : 
     * Pedro Luis Mateo : 
     * Oscar Valdelvira De La Mata : 
